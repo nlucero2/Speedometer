@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speedometer NL</string>
+    <string name="mile_per_hour"> </string>
+    <string name="metric_unit_switch">Metric Units</string>
+</resources>
